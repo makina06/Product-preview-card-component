@@ -50,7 +50,6 @@ Users should be able to:
 
 ```
 
-I
 
 ### Continued development
 
